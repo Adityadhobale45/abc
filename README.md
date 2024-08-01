@@ -1,2 +1,5 @@
 # abc
-this is my firest repositary
+this is my first repositary
+
+authar aditya dhobale
+
